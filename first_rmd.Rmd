@@ -2,7 +2,7 @@
 title: "Simple document"
 author: Yijia Chen
 date: 2021-09-23
-output: html_document
+output: github_document
 ---
 
 ```{r, message=FALSE}
